@@ -1,0 +1,17 @@
+{
+  "name":"practicajavascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/main.js",
+  "type": "module",
+  "scripts": {
+    "g": "node js/main.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
